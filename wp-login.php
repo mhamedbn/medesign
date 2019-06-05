@@ -9,11 +9,11 @@
 	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
 	<title>Se connecter &lsaquo; medesign &#8212; WordPress</title>
 	<link rel='dns-prefetch' href='//s.w.org' />
-<link rel='stylesheet' id='dashicons-css'  href='/https://mhamedbn.github.io/medesign/wp-includes/css/dashicons.min.css?ver=5.2.1' type='text/css' media='all' />
-<link rel='stylesheet' id='buttons-css'  href='/https://mhamedbn.github.io/medesign/wp-includes/css/buttons.min.css?ver=5.2.1' type='text/css' media='all' />
-<link rel='stylesheet' id='forms-css'  href='/https://mhamedbn.github.io/medesign/wp-admin/css/forms.min.css?ver=5.2.1' type='text/css' media='all' />
-<link rel='stylesheet' id='l10n-css'  href='/https://mhamedbn.github.io/medesign/wp-admin/css/l10n.min.css?ver=5.2.1' type='text/css' media='all' />
-<link rel='stylesheet' id='login-css'  href='/https://mhamedbn.github.io/medesign/wp-admin/css/login.min.css?ver=5.2.1' type='text/css' media='all' />
+<link rel='stylesheet' id='dashicons-css'  href='http://localhost/https:/mhamedbn.github.io/medesign/wp-includes/css/dashicons.min.css?ver=5.2.1' type='text/css' media='all' />
+<link rel='stylesheet' id='buttons-css'  href='http://localhost/https:/mhamedbn.github.io/medesign/wp-includes/css/buttons.min.css?ver=5.2.1' type='text/css' media='all' />
+<link rel='stylesheet' id='forms-css'  href='http://localhost/https:/mhamedbn.github.io/medesign/wp-admin/css/forms.min.css?ver=5.2.1' type='text/css' media='all' />
+<link rel='stylesheet' id='l10n-css'  href='http://localhost/https:/mhamedbn.github.io/medesign/wp-admin/css/l10n.min.css?ver=5.2.1' type='text/css' media='all' />
+<link rel='stylesheet' id='login-css'  href='http://localhost/https:/mhamedbn.github.io/medesign/wp-admin/css/login.min.css?ver=5.2.1' type='text/css' media='all' />
 	<meta name='robots' content='noindex,noarchive' />
 	<meta name='referrer' content='strict-origin-when-cross-origin' />
 		<meta name="viewport" content="width=device-width" />
@@ -22,7 +22,7 @@
 		<div id="login">
 		<h1><a href="https://fr.wordpress.org/">Propulsé par WordPress</a></h1>
 	
-	<form name="loginform" id="loginform" action="/https://mhamedbn.github.io/medesign/wp-login.php" method="post">
+	<form name="loginform" id="loginform" action="http://localhost/https:/mhamedbn.github.io/medesign/wp-login.php" method="post">
 	<p>
 		<label for="user_login">Identifiant ou adresse e-mail<br />
 		<input type="text" name="log" id="user_login" class="input" value="" size="20" autocapitalize="off" /></label>
@@ -40,7 +40,7 @@
 	</form>
 
 			<p id="nav">
-					<a href="/https://mhamedbn.github.io/medesign/wp-login.php?action=lostpassword">Mot de passe oublié ?</a>
+					<a href="http://localhost/https:/mhamedbn.github.io/medesign/wp-login.php?action=lostpassword">Mot de passe oublié ?</a>
 				</p>
 	
 	<script type="text/javascript">
@@ -57,7 +57,7 @@
 			if(typeof wpOnload=='function')wpOnload();
 			</script>
 
-			<p id="backtoblog"><a href="/https://mhamedbn.github.io/medesign/">
+			<p id="backtoblog"><a href="http://localhost/https:/mhamedbn.github.io/medesign/">
 		&larr; Retour vers medesign	</a></p>
 			
 	</div>
